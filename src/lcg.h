@@ -7,7 +7,7 @@
 
 class lcg {
 public:
-  lcg( long long Seed, long long Modulus, long long Increment );
+  lcg( long long Seed, long long Modulus, long long Multiplier, long long Increment );
   long long Next();
   lcg & Reseed( long long NewSeed );
   lcg & Reset();

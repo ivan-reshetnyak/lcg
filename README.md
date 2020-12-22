@@ -1,0 +1,2 @@
+# lcg
+Linear congruential generator

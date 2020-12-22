@@ -1,0 +1,8 @@
+# VS files
+.vs/
+*.user
+
+# Build results
+bin/
+build/
+logs/
